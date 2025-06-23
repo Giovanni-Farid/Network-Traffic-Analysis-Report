@@ -34,4 +34,4 @@ This report and the assessment activities were conducted for **educational and p
 
 Copyright (c) 2025 Giovanni Farid Shawki. All Rights Reserved.
 
-See the [LICENSE](http://docs.google.com/LICENSE) file for details.
+See the [LICENSE](LICENSE.md) file for details.
