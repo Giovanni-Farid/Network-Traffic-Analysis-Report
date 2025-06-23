@@ -1,4 +1,4 @@
-# **Network Traffic Analysis Project**
+# **Network Traffic Analysis Report**
 
 This repository contains a professional Network Traffic Analysis Report created as part of a cybersecurity internship project. The report details the detection and analysis of several simulated network attacks.
 
