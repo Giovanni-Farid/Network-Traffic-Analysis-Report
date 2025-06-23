@@ -19,7 +19,7 @@ The captured traffic was then analyzed to identify the unique signatures of each
 
 ## **Report Contents**
 
-The PDF report in this repository includes:
+The [PDF report](Network-Traffic-Analysis-Report.pdf) in this repository includes:
 
 * An Executive Summary for a high-level overview.  
 * A detailed breakdown of the 6+ simulated attacks that were successfully identified.  
